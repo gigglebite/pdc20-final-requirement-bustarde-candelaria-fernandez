@@ -1,0 +1,30 @@
+@media screen and (min-width:992px){
+    .nav-item {
+    line-height:80px;
+    }
+  }
+
+  
+
+  body {
+    background-color: black;
+    overflow-x: hidden;
+  }
+  .navbar {
+    background-color: #FFA500;
+  }
+
+  body {
+    font-family: 'Spartan', sans-serif;
+    font-weight: 300;
+    color: var(--light);
+}
+
+.nav-tabs .nav-link{
+  color: white !important;
+}
+
+.nav-tabs > button.active{
+  background-color:#FFA500 !important;
+  border: none;
+}
